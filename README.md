@@ -1,4 +1,4 @@
-# 🌈 Harsita's Task Zone
+# 🎀 Harsita's Task Zone
 
 > **Stay Procrastination Free!** - A vibrant, feature-rich task management app that makes productivity fun and engaging.
 
@@ -38,7 +38,7 @@ Life gets busy, and keeping track of everything can be overwhelming! I created t
 
 ## 🚀 Live Demo
 
-**[Try it out here!](https://yourusername.github.io/harsitas-task-zone)** *(Update with your actual GitHub Pages URL)*
+**[Try it out here!](https://harsita21.github.io/Harsitas-Task-Zone/)**
 
 ## 🛠️ Tech Stack
 
