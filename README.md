@@ -2,8 +2,6 @@
 
 > **Stay Procrastination Free!** - A vibrant, feature-rich task management app that makes productivity fun and engaging.
 
-![Task Zone Banner](<img width="1704" height="1442" alt="image" src="https://github.com/user-attachments/assets/efaf26b8-bf45-4409-a096-f9da6289b550" />)
-
 ## 🎯 Why This Project?
 
 Life gets busy, and keeping track of everything can be overwhelming! I created this colorful task management app because I was tired of:
