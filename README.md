@@ -1,11 +1,8 @@
-# Harsita-s_Task_Zone
-A colorful and intuitive task management web app to help stay organized and beat procrastination. Features deadlines, descriptions, and a beautiful dashboard to track your productivity!
-
 # 🌈 Harsita's Task Zone
 
 > **Stay Procrastination Free!** - A vibrant, feature-rich task management app that makes productivity fun and engaging.
 
-![Task Zone Banner](https://via.placeholder.com/800x200/4ECDC4/FFFFFF?text=Harsita%27s+Task+Zone)
+![Task Zone Banner](<img width="1704" height="1442" alt="image" src="https://github.com/user-attachments/assets/efaf26b8-bf45-4409-a096-f9da6289b550" />)
 
 ## 🎯 Why This Project?
 
@@ -134,25 +131,9 @@ Found a bug? Have a cool feature idea? I'd love to hear from you!
 4. **Push** to the branch (`git push origin amazing-feature`)
 5. **Open** a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
 - Inspired by the need to stay organized in a chaotic world
 - Built with love and lots of coffee ☕
 - Thanks to everyone who believes in the power of good design to make productivity enjoyable!
-
-## 📞 Connect
-
-Have questions or just want to chat about productivity and web development?
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
-### 🌟 Star this repo if it helped you stay organized! 
-
-**Made with 💖 for everyone who wants to beat procrastination and get things done!**
